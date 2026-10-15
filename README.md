@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abdul Wahab | `haroondeveloper`
+# 👋 Hey, I'm HAROON AKRAM
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-Hey there! I'm **Abdul Wahab**, a developer, creative thinker, and technology enthusiast who enjoys transforming ideas into practical digital products.
+Hey there! I'm **Haroon Akram**, a developer, creative thinker, and technology enthusiast who enjoys transforming ideas into practical digital products.
 
 I love working at the intersection of **software engineering, modern design, AI-powered solutions, and digital entrepreneurship**. From developing web applications to exploring automation and building brands, I'm always looking for ways to create something useful, intuitive, and impactful.
 
@@ -62,26 +62,6 @@ A platform concept focused on helping users promote listings through a structure
 
 [Explore My GitHub Repositories →](https://github.com/haroondeveloper?tab=repositories)
 
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Royal Perfumes
-
-**My e-commerce and brand-building venture**
-
-A brand project focused on bringing products and customers together through an engaging online shopping experience.
-
-**Areas of focus:**
-- E-commerce experience and product presentation
-- Brand identity and digital marketing
-- Customer-friendly shopping interfaces
-- Product discovery and online growth
-
-**Focus:** E-commerce, UI/UX, branding, and digital business.
-
-[Explore My GitHub Repositories →](https://github.com/haroondeveloper?tab=repositories)
-
-</td>
 </tr>
 </table>
 
@@ -250,6 +230,6 @@ I'm always interested in connecting with developers, designers, entrepreneurs, a
 
 ### ✨ Build. Create. Innovate. Repeat. ✨
 
-<sub>Designed with ❤️ by Abdul Wahab · Powered by curiosity and code</sub>
+<sub>Designed with ❤️ by Haroon Akram· Powered by curiosity and code</sub>
 
 </div>
